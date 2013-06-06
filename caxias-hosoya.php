@@ -14,10 +14,17 @@ Author URI: https://twitter.com/tkc49
 
 function caxias_hosoya_get_lyric() {
   /** These are the lyrics to Caxias Hosoya */
-	$lyrics = "君の瞳にダッシュボード
+	$lyrics = "眠れぬ夜は思い出すよ
+君のquery_posts　白くなった画面
+俺がバグを見つけて　君は笑ってくれたね
+その時から俺のメインクエリーは　君だけのものさ
+三日前から既読なのに
+どうしてなんだベイべ〜♫
+それLINEですやんほそやん
+君の瞳にダッシュボード
 溢れる想いがトラックバック
 そして届かない君からのコメント通知
-Wow~ You are my Type~";
+Wow〜 You are my Type〜";
 
 	// Here we split it into lines
 	$lyrics = explode( "\n", $lyrics );
